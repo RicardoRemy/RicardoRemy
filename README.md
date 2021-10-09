@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RicardoRemy
+1- 👋 Hi, Eu sou Ricardo Remy.
 - 👀 I’m interested in  aprender cada dia mais.
 - 🌱 I’m currently learning  Analise e desenvolvimento de sistema. 
 - 💞️ I’m looking to collaborate on qualquer projeto que posse me agregar conhecimento.
